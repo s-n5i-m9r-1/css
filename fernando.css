@@ -1,0 +1,13 @@
+h1{
+    color: rgb(15,180,0);
+}
+h2{
+    color:blueviolet;
+}
+/* el elemento con id="demo"*/
+#demo{
+    border: yellow 4px solid;
+}
+.crimson-text{
+    color:bisque
+}
